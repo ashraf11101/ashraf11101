@@ -1,7 +1,7 @@
-# Hi there, I'm Mohamed Sarhan 👋
+# Hi there, I'm Ashraf Elsayed 👋
 
 ## 🌟 About Me
-- **💻 Prodigy Programmer** with 8 years of experience.
+- **💻 Prodigy Programmer** with 2 years of experience.
 - **🎓 Current Roles:** Working at Haworth University and Cyber Investigations.
 - **🌐 Expertise:** Legendary proficiency in programming, beginner to intermediate in cybersecurity and penetration testing.
 - **🚀 Multilingual Developer:** Fluent in 18 programming languages, seamlessly switching between them without errors.
