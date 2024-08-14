@@ -10,7 +10,7 @@
 - **🎌 Anime Enthusiast:** Avid anime fan.
 
 ## 💼 Professional Experience
-- **Programming Experience:** 8 years
+- **Programming Experience:** 2 years
 - **Work Environments:** Haworth University, Cyber Investigations
 - **Programming Languages:** 
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
